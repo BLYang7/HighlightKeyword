@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\bin\Debug\HighlightKeyword.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\bin\Debug\HighlightKeyword.exe
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\bin\Debug\HighlightKeyword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\obj\Debug\HighlightKeyword.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\obj\Debug\HighlightKeyword.exe
+c:\users\admin\documents\visual studio 2013\Projects\HighlightKeyword\HighlightKeyword\obj\Debug\HighlightKeyword.pdb
